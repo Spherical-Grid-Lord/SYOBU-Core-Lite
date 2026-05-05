@@ -84,5 +84,8 @@ This repository is intended to host **public-safe summaries** only.
 | [Spherical-Grid-Sense](Spherical-Grid-Sense.md) | 1bit 構造化データ変換 | 視覚・変換 |
 | [Alss-Grid-Core](A.I.ss-Grid Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
+| [eriOS V3.3 “Sake-Mirror” Boot-Loader.md](eriOSv3.3"Sake-Mirror"Boot-Loader.md)  | 進相制御と安全監査 | **制御・核 (Core)** |
+
+
 
 > **「個々の星（Repository）を繋ぎ、一つの星座（Grid）を描く。」**
