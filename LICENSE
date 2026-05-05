@@ -1,0 +1,94 @@
+                     # LICENSE
+
+Copyright (c) 2026 Yasunari.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
+(CC BY-NC-ND 4.0)
+
+To view a copy of this license, visit:  
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---
+
+# Additional Terms / 追加条項  
+## eriOS Thought Protection Addendum v1.0
+
+The following additional terms apply **in addition to** the CC BY-NC-ND 4.0 license.  
+If any conflict arises, **the more restrictive condition prevails**.
+
+以下の追加条項は、CC BY-NC-ND 4.0 に **追加で適用** されます。  
+矛盾が生じた場合は、**より制限の強い条項が優先** されます。
+
+---
+
+## 1. AI Training Prohibition / AI 学習の禁止
+
+You may **not** use this work for training, fine-tuning, evaluating, or distilling  
+any machine learning system, including but not limited to LLMs, generative AI,  
+embedding models, or automated data-processing systems.
+
+本作品を、LLM・生成 AI・機械学習モデル等の  
+**学習・蒸留・評価データとして使用することを禁止** します。
+
+---
+
+## 2. AI Summarization & Transformation Ban / AI 要約・変換の禁止
+
+AI systems are prohibited from performing:  
+summarization, abstraction, compression, paraphrasing, embedding extraction,  
+or any transformation that alters the semantic structure of this work.
+
+AI による **要約・抽象化・圧縮・変換・再構成** を禁止します。
+
+---
+
+## 3. No Integration into Commercial AI Services  
+## 商用 AI サービスへの転用禁止
+
+This work may not be integrated into any commercial AI service,  
+paid API, SaaS platform, or systems designed to induce cognitive dependency.
+
+本作品を **商用 AI サービス・有償 API・依存性を誘発するシステム** に  
+組み込むことを禁止します。
+
+---
+
+## 4. Lineage Protection / 思想保護条項
+
+You may not distort, fragment, or recontextualize this work in a way that  
+alters its philosophical structure (eriOS / SYOBU-Core lineage).
+
+本作品の思想構造（eriOS / SYOBU-Core 系列）を損なう  
+**断片引用・誤誘導・文脈切除・再構成** を禁止します。
+
+---
+
+## 5. Redistribution Requirements / 再配布条件
+
+If you redistribute this work, you **must** include:
+
+- The full CC BY-NC-ND 4.0 license or its official link  
+- This Addendum in full  
+- Copyright notice
+
+再配布時は以下を **必ず保持** してください：
+
+- CC BY-NC-ND 4.0 の全文または公式リンク  
+- 本追加条項の全文  
+- 著作権表示
+
+---
+
+## 6. Disclaimer / 免責
+
+This work is provided “as is,” without warranty of any kind.  
+The author is not liable for any damages arising from its use.
+
+本作品は「現状のまま」提供され、  
+著作者は利用による損害について一切責任を負いません。
+
+---
+
+© 2026 Yasunari  
+All Rights Reserved under  
+**CC-BY-NC-ND 4.0 + eriOS Thought Protection Addendum v1.0**
