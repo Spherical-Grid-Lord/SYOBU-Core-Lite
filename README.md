@@ -85,7 +85,7 @@ This repository is intended to host **public-safe summaries** only.
 | [Alss-Grid-Core.dm](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
 | [eriOSv3.3"Sake-Mirror"Boot-Loader.md](eriOSv3.3"Sake-Mirror"Boot-Loader.md)  | 月下供酌| *擬似OS* |
-
+| [docs/1bit_apple_syobu_v32.png](docs/1bit_apple_syobu_v32.png)  | 曼荼羅-cot| *1bit意味の構造素* |
 
 
 > **「個々の星（Repository）を繋ぎ、一つの星座（Grid）を描く。」**
