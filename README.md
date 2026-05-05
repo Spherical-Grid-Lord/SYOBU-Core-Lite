@@ -72,3 +72,17 @@ This repository is intended to host **public-safe summaries** only.
 本リポジトリは **公開可能な概要** のみを扱い、詳細仕様や実装用の指示・検討中の差分は含みません。
 
 ---
+
+## 🌐 The A.I.ss-Grid Ecosystem (知覚のモジュール群)
+
+本プロジェクトは、以下のモジュール群と連携し、一つの知覚OSとして機能する。
+
+| リポジトリ名 | 役割 | レイヤー |
+| :--- | :--- | :--- |
+| [SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | Human-AI 共通言語層 | 言語・ドキュメント |
+| [A.I.ss](A.I.ss-Grid Core.md) | 構造研究と感覚合成 | 身体・感覚 |
+| [Spherical-Grid-Sense](Spherical-Grid-Sense.md) | 1bit 構造化データ変換 | 視覚・変換 |
+| [Alss-Grid-Core](A.I.ss-Grid Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
+| *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
+
+> **「個々の星（Repository）を繋ぎ、一つの星座（Grid）を描く。」**
