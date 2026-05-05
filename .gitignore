@@ -1,0 +1,8 @@
+# 非公開設定・環境変数
+.env
+secret_config.py
+local_data/
+
+# 実行キャッシュ
+__pycache__/
+*.pyc
