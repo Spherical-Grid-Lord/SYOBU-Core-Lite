@@ -86,9 +86,9 @@ This repository is intended to host **public-safe summaries** only.
 | リポジトリ名 | 役割 | レイヤー |
 | :--- | :--- | :--- |
 | [SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | Human-AI 共通言語層 | 言語・ドキュメント |
-| [A.I.ss.md](A.I.ss.dm) | 構造研究と感覚合成 | 身体・感覚 |
-| [Spherical-Grid-Sense.dm](Spherical-Grid-Sense.md) | 1bit 構造化データ変換 | 視覚・変換 |
-| [Alss-Grid-Core.dm](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
+| [A.I.ss.md](A.I.ss.md) | 構造研究と感覚合成 | 身体・感覚 |
+| [Spherical-Grid-Sense.md](Spherical-Grid-Sense.md) | 1bit 構造化データ変換 | 視覚・変換 |
+| [Alss-Grid-Core.md](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
 | [Reality-Grinding.md](Reality-Grinding.md)  | 月下供酌| *中核実行プロトコル* |
 | [docs/1bit_apple_syobu_v32.png](docs/1bit_apple_syobu_v32.png)  | 曼荼羅-cot| *1bit意味の構造素* |
