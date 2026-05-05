@@ -2,6 +2,8 @@
 layout: default
 title: SYOBU-Core-Lite
 ---
+
+
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue)
 ![Addendum: eriOS Thought Protection](https://img.shields.io/badge/Addendum-eriOS%20Thought%20Protection-orange)
 
