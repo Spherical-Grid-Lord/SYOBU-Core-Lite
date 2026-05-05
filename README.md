@@ -72,26 +72,3 @@ This repository is intended to host **public-safe summaries** only.
 本リポジトリは **公開可能な概要** のみを扱い、詳細仕様や実装用の指示・検討中の差分は含みません。
 
 ---
-
-## License / ライセンス
-Licensed under the **Apache License, Version 2.0**. See `LICENSE`.
-**Apache License 2.0** で提供します。詳細は `LICENSE` を参照してください。
-( Apache-2.0 includes an explicit patent grant from contributors and a termination clause for patent litigation. )
-（Apache-2.0 には貢献者からの明示的な特許許諾と、特許訴訟に関する終了条項が含まれます。）
-
-## NOTICE (Optional) / NOTICE（任意）
-If a `NOTICE` file is present, retain it in redistributions.
-`NOTICE` ファイルが存在する場合は、再配布時に保持してください。
-
----
-
-## AI-Assistance Note (Recommended) / AI利用に関する注記（推奨）
-Contributions must be made with rights to submit under Apache-2.0.
-If AI tools are used, contributors are responsible for avoiding copying third-party copyrighted content and for disclosing material AI assistance when appropriate.
-Apache-2.0 の下で提出する権利がある内容のみ投稿してください。
-AIツールを利用する場合も、第三者著作物の混入回避と、必要に応じたAI支援の開示は投稿者責任です。
-
-## Patent Notice (Optional) / 特許に関する注意（任意）
-No patent review has been performed. Nothing here should be interpreted as a non-infringement guarantee.
-特許調査は実施していません。非侵害を保証するものではありません。
-```
