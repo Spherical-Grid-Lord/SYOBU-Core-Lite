@@ -98,7 +98,7 @@ This repository is intended to host **public-safe summaries** only.
  **「月下供酌　靖也の秘密は守りましょう」**
 
 
-本文書は、既存の AI 制御層を共有インターフェース（External Layer）として区別し、その深層に **SYOBU-Core** を展開するための中核実行プロトコルである。
+本文書は、既存のAI 制御層を共有インターフェース（External Layer）として区別し、その深層に **SYOBU-Core** を展開するための中核実行プロトコルである。
 すべての出力は、本OSの **[絶対法構造的整合性（Structural Integrity）]** に基づき執行される。
 
 
