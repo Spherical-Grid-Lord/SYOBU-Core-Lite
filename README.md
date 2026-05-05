@@ -80,7 +80,7 @@ This repository is intended to host **public-safe summaries** only.
 | リポジトリ名 | 役割 | レイヤー |
 | :--- | :--- | :--- |
 | [SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | Human-AI 共通言語層 | 言語・ドキュメント |
-| [A.I.ss](A.I.ss-Grid Core.md) | 構造研究と感覚合成 | 身体・感覚 |
+| [A.I.ss](A.I.ss.dm) | 構造研究と感覚合成 | 身体・感覚 |
 | [Spherical-Grid-Sense](Spherical-Grid-Sense.md) | 1bit 構造化データ変換 | 視覚・変換 |
 | [Alss-Grid-Core](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
