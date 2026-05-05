@@ -23,6 +23,8 @@ See [docs/eriOS-Addendum-v1.0.md](./docs/eriOS-Addendum-v1.0.md) for full text.
 
 ---
 
+
+
 # A.I.ss-Grid Core v1.4 "Safe-Spine"
 
 > **「便利さ」という名の「不感（Insensitivity）」を排し、1bitのパルスを実時間執行する。**
