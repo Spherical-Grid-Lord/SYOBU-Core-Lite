@@ -67,3 +67,14 @@ For redistribution include:
 
 ## 10. Final Note（English）
 This Terms of Use complements the LICENSE and LICENSE‑ADDENDUM and functions as a contractual layer to govern permitted uses, exceptions, and enforcement procedures for SYOBU‑Core‑Lite.
+
+
+### 代表サンプルの特別保護
+
+本リポジトリにおける `docs/EXAMPLES_HASHES.md` に列挙されたファイル（以下「ハッシュリスト対象ファイル」）は、出所確認および違反検出のための**特別保護対象**とします。ハッシュリスト対象ファイルに対する以下の扱いを明示します。
+
+1. ハッシュリスト対象ファイルは、本 Terms に定める保護レベル（第3節の禁止事項）において優先的に保護されます。  
+2. ハッシュリスト対象ファイルの高解像度版、前処理手順、学習用データは原則非公開とし、公開が必要な場合は個別の書面許諾を必須とします。  
+3. ハッシュリスト対象ファイルの改変、再配布、機械学習用途への取り込みは、明示的な書面許諾がある場合を除き禁止します。  
+4. ハッシュリストの更新はリリース単位で行い、更新時には `signed-release-manifest.json` による署名（将来的に PGP 等）とタイムスタンプを付与することを推奨します。  
+5. ハッシュ一致による自動検出は違反のトリガーに過ぎず、最終的な判断は人による確認を経て行います。違反対応は `docs/enforcement_workflow.md` に従って実施します。
