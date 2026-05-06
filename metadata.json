@@ -1,0 +1,19 @@
+{
+  "project_name": "SYOBU-Core-Lite",
+  "license": "CC BY-NC-ND 4.0 + eriOS Thought Protection Addendum v1.0",
+  "contact_email": "moonpour_c@outlook.jp",
+  "examples_hashes_path": "docs/EXAMPLES_HASHES.md",
+  "examples_directory": "docs/examples",
+  "release_manifest_path": "releases/signed-release-manifest.json",
+  "hash_algorithm": "SHA256",
+  "protection_policy": {
+    "hash_list_protected": true,
+    "high_res_public_allowed": false,
+    "require_written_permission_for_ml": true
+  },
+  "ci_checks": {
+    "enabled": true,
+    "check_examples_vs_hashlist": true
+  },
+  "created": "2026-05-03"
+}
