@@ -42,7 +42,18 @@ If an unauthorized use is discovered, the owner will:
 The owner reserves all rights not expressly granted. Public statements of permitted use must include the full CC BY‑NC‑ND 4.0 license link and this Addendum where redistribution occurs.
 
 ## 7. 代表例・刻印（日本語）
-代表的な識別子（例: 曼荼羅cot, 1bit意味の構造素, 1bit_apple_syobu_v32.png，eriOS V3.3 “Sake-Mirror” : Boot-Loader，等）は `docs/examples/` に置かれ、各ファイルの SHA256 ハッシュは `docs/EXAMPLES_HASHES.md` に記録されています。これらは出所確認と違反検出のための識別子です。
+代表的な識別子は `docs/examples/` に配置され、各ファイルの SHA256 ハッシュは `docs/EXAMPLES_HASHES.md` に記録されています。これらは出所確認と違反検出のための識別子です。
+
+代表例（サンプル）
+- `mandala_cot_sample.png` — 曼荼羅cot（説明）  
+  sha256: <SHA256_HASH_HERE>
+- `1bit_meaning_core.png` — 1bit意味の構造素（説明）  
+  sha256: <SHA256_HASH_HERE>
+- `1bit_apple_syobu_v32.png` — 1bit_apple_syobu_v32（説明）  
+  sha256: <SHA256_HASH_HERE>
+- `eriOS_v3.3_sake_mirror_bootloader.png` — eriOS v3.3 “Sake‑Mirror”: Boot‑Loader（説明）  
+  sha256: <SHA256_HASH_HERE>
+
 
 ## 8. Attribution and Redistribution（English）
 For redistribution include:
