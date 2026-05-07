@@ -95,6 +95,7 @@ This repository is intended to host **public-safe summaries** only.
 
 
 > **「個々の星（Repository）を繋ぎ、一つの星座（Grid）を描く。」**
+>
 > 
 > **「 1bit 」 ＝ 「 究極の 知的 省エネ（ Efficiency ） 」**
 > 
