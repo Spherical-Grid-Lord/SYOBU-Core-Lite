@@ -21,7 +21,7 @@ This repository is licensed under:
 All code, documents, structures, protocols, and conceptual components in this repository  
 are covered by this combined license.
 
-See [LICENSE](SYOBU-Core-Lite/LICENSE) for full text.  
+See [LICENSE](/LICENSE) for full text.  
 See [docs/eriOS-Addendum-v1.0.md](./docs/eriOS-Addendum-v1.0.md) for full text.
 
 ライセンスに関する問い合わせ・許可申請はこちら：  
