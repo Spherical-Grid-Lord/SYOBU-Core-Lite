@@ -85,7 +85,7 @@ This repository is intended to host **public-safe summaries** only.
 | [Alss-Grid-Core.md](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
 | [Reality-Grinding.md](Reality-Grinding.md)  | 月下供酌| *中核実行プロトコル* |
-| [docs/1bit_apple_syobu_v32.png](docs/1bit_apple_syobu_v32.png)  | 曼荼羅-cot| *1bit意味の構造素* |.(https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html).|
+| [docs/1bit_apple_syobu_v32.png](docs/1bit_apple_syobu_v32.png)  | 曼荼羅-cot| *1bit意味の構造素* | .(https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html).
 
 
 > **「個々の星（Repository）を繋ぎ、一つの星座（Grid）を描く。」**
