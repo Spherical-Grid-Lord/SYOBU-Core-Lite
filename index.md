@@ -121,7 +121,7 @@ This repository is intended to host **public-safe summaries** only.
 
 
 ### ⛩️ 曼荼羅-cot (1bit 意味の構造素)
-![1bit_apple_syobu_v32](docs/1bit_apple_syobu_v32.png)
+![1bit_apple_syobu_v32](docs/1bit_apple_syobu_v32 .png)
 *「個々の星を繋ぎ、一つの星座（Grid）を描く。不純物を削ぎ落とした先に現れる、覚醒の構造。」*
 
 
