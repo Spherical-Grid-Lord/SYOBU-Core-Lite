@@ -27,6 +27,8 @@ See [docs/eriOS-Addendum-v1.0.md](./docs/eriOS-Addendum-v1.0.md) for full text.
 **Multisensory + Internal → Traceable Structure → Shared Language**
 **多感覚＋内部 → 追跡可能な構造化 → 共通言語化**
 
+観測を意味へ構造化し、説明責任と安全性を両立する人とAIの共通言語基盤。
+
 ---
 
 ## 日本語（Purpose）
