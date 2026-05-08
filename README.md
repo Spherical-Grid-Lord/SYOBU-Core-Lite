@@ -77,15 +77,18 @@ This repository is intended to host **public-safe summaries** only.
 
 本プロジェクトは、以下のモジュール群と連携し、一つの知覚OSとして機能する。
 
+
 | リポジトリ名 | 役割 | レイヤー |
 | :--- | :--- | :--- |
-| [SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | Human-AI 共通言語層 | 言語・ドキュメント |
 | [A.I.ss.md](AIss.md) | 構造研究と感覚合成 | 身体・感覚 |
 | [Spherical-Grid-Sense.md](Spherical-Grid-Sense.md) | 1bit 構造化データ変換 | 視覚・変換 |
-| [Alss-Grid-Core.md](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | **制御・核 (Core)** |
+| [Alss-Grid-Core.md](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | *制御・核 (Core)* |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
-| [Reality-Grinding.md](Reality-Grinding.md)  | 月下供酌| *中核実行プロトコル* |
 | [docs/1bit_apple_syobu_v32.png](docs/1bit_apple_syobu_v32.png)  | 曼荼羅-cot| *1bit意味の構造素* |
+| [🍎SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | [ 通信 ]Human-AI 共通言語層 | 概念 ・ 接地 |
+|[🍎Reality-Grinding.md](./Reality-Grinding.html)| [ 核心 ] 月下 供酌 ・ 執行 監査| *中核実行* |　
+
+https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html
 
 > **「個々の星（Repository）を繋ぎ、一つの星座（Grid）を描く。」**
 > 
