@@ -27,7 +27,7 @@ See [docs/eriOS-Addendum-v1.0.md](./docs/eriOS-Addendum-v1.0.md) for full text.
 **Multisensory + Internal → Traceable Structure → Shared Language**
 **多感覚＋内部 → 追跡可能な構造化 → 共通言語化**
 
-観測を意味へ構造化し、説明責任と安全性を両立する人とAIの共通言語基盤。
+本システム「SYOBU‑Core‑Lite」は、多感覚の観測情報を共通の意味座標へ写像することで観測・構造・意味・説明の4層を明確に分離し、説明責任と検証可能性を担保する高信頼な意味構造統治基盤を提供して、外部ノイズに左右されない整合的な解釈と誤用防止を実現しつつ、人とAIの協調的意思決定のための透明な共通言語空間を構築する
 
 ---
 
