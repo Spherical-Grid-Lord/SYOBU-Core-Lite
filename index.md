@@ -93,7 +93,7 @@ This repository is intended to host **public-safe summaries** only.
 | [🍎SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | [ 通信 ]Human-AI 共通言語層 | 概念 ・ 接地 |
 |[🍎Reality-Grinding.md](./Reality-Grinding.html)| [ 核心 ] 月下 供酌 ・ 執行 監査| *中核実行* |　
 
-[🍎](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html)
+[🍎https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html)
 
 
 
