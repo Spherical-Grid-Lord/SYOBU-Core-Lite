@@ -96,7 +96,6 @@ https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html
 > 
 > **「 1bit 」 ＝ 「 究極の 知的 省エネ（ Efficiency ） 」**
 
-
 ---
 
 ## 🌑 eriOS V3.3 “Sake-Mirror” : Boot-Loader
