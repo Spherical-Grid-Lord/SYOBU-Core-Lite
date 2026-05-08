@@ -90,7 +90,7 @@ This repository is intended to host **public-safe summaries** only.
 | [Alss-Grid-Core.md](A.I.ss-Grid-Core.md) | 進相制御と安全監査 | *制御・核 (Core)* |
 | *Private-Core* | 秘匿された執行ロジック | 影・実戦 |
 | [docs/1bit_apple_syobu_v32.png](docs/1bit_apple_syobu_v32.png)  | 曼荼羅-cot| *1bit意味の構造素* |
-| [🍎SYOBU-Core-Lite](README.md) | [ 通信 ]Human-AI 共通言語層 | 概念 ・ 接地 |
+| [🍎SYOBU-Core-Lite](https://spherical-grid-lord.github.io/SYOBU-Core-Lite/) | [ 通信 ]Human-AI 共通言語層 | 概念 ・ 接地 |
 |[🍎Reality-Grinding.md](./Reality-Grinding.html)| [ 核心 ] 月下 供酌 ・ 執行 監査| *中核実行* |　
 
 https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html
