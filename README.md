@@ -119,5 +119,3 @@ https://spherical-grid-lord.github.io/SYOBU-Core-Lite/Reality-Grinding.html
 
 
 [航行座標：2026-05-05 22:50:00 JST]
-
-テスト
